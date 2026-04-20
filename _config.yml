@@ -10,13 +10,13 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "feriel"
-resume_title:                   " Étudiante en dev"
-resume_contact_email:           "feriel@gmail.com"
+resume_name:                    "bbbbbbb"
+resume_title:                   " pro "
+resume_contact_email:           "bbbbbb@gmail.com"
 resume_contact_telephone:       "7654-321"
 resume_contact_address:         "paris,france"
-resume_header_contact_info: "paris,france | 00000011111 | feriel@gmail.com"
-resume_header_intro: "<p>Étudiante en informatique passionnée par le développement</p>"
+resume_header_contact_info: "paris,france | 00000011111 | bbbbb@gmail.com"
+resume_header_intro: "<p>pro en informatique passionnée par le développement</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
